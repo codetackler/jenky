@@ -8,7 +8,7 @@ pipeline {
       steps {
         sh '''
             echo "Aloha"
-            sleep 30
+            sleep 10
         '''
       }
     }
